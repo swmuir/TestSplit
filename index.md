@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the FHIM PROJECT SOTE
 
 You can use the [editor on GitHub](https://github.com/swmuir/TestSplit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
